@@ -18,10 +18,10 @@ For instance, if we run
 
 the program prints 
 
-`Jacques  ->  maths1
+`Jacques  ->  maths1`
 
-Louis  ->  anglais1
+`Louis  ->  anglais1`
 
-Jean  ->  physique1
+`Jean  ->  physique1`
 
-Ulysse  ->  Pipeau1`
+`Ulysse  ->  Pipeau1`
