@@ -10,11 +10,11 @@ On each cell, you have the rank of this course for the corresponding student fro
 
 You can then run the algorithm with the command:
 
-`python magouilleuse_science_po.py <csv file path>`
+`python magouilleuse.py <csv file path>`
 
 For instance, if we run 
 
-`python magouilleuse_science_po.py choix_cours.csv`
+`python magouilleuse.py choix_cours.csv`
 
 the program prints 
 
